@@ -1,4 +1,4 @@
-package smn.dal.test.query;
+package smn.dal.query;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package smn.dal.test.query;
+package smn.dal.query;
 
 import java.util.HashMap;
 import java.util.List;
@@ -10,10 +10,10 @@ import smn.dal.model.Row;
 import smn.dal.query.Query;
 import smn.dal.query.TupleResult;
 import smn.dal.sql.SqlFn;
-import smn.dal.test.model.Department;
-import smn.dal.test.model.DepartmentUserRel;
-import smn.dal.test.model.Member;
-import smn.dal.test.model.MemberProfile;
+import smn.dal.model.Department;
+import smn.dal.model.DepartmentUserRel;
+import smn.dal.model.Member;
+import smn.dal.model.MemberProfile;
 import static smn.utils.Functions.*;
 
 public class QueryTest {

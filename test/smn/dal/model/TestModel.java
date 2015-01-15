@@ -1,4 +1,4 @@
-package smn.dal.test.model;
+package smn.dal.model;
 
 import org.junit.Test;
 

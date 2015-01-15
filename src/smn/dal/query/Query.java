@@ -8,7 +8,6 @@ import smn.dal.model.Column;
 import smn.dal.model.IntCol;
 import smn.dal.model.SmnModel;
 import smn.dal.model.StringCol;
-import smn.dal.test.model.Member;
 
 public class Query extends var implements Cloneable {
 	/*

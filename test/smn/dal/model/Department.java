@@ -1,4 +1,4 @@
-package smn.dal.test.model;
+package smn.dal.model;
 
 import smn.dal.model.ColumnCollection;
 import smn.dal.model.SmnModel;

@@ -1,4 +1,4 @@
-package smn.dal.test.model;
+package smn.dal.model;
 
 import smn.dal.model.BinaryCol;
 import smn.dal.model.CharCol;
