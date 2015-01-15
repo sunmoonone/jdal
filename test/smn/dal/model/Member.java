@@ -23,7 +23,7 @@ public class Member extends SmnModel<Integer>{
 	final public StringCol school = new StringCol("school");
 	final public FloatCol balance = new FloatCol("balance",Value.create(0f));
 	final public BinaryCol img 	=new BinaryCol("img");
-	final public DateCol createTime = new DateCol("create_time");
+	final public DateCol createTime = new DateCol("create_time","ct");
 
 	public String __getTable(){
 		return "member";
